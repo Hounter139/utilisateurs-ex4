@@ -1,0 +1,13 @@
+.MuiFormControl-root:not(:first-child){
+    margin-top: 20px;
+
+}
+
+.MuiDialogActions-root{
+    margin: 15px;
+    
+    .MuiButtonBase-root:first-child{
+        margin-right: 6px;
+    }
+
+}
