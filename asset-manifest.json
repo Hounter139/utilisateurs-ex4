@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/utilisateurs-ex4/static/css/main.099f2058.chunk.css",
+    "main.js": "/utilisateurs-ex4/static/js/main.e32cd515.chunk.js",
+    "main.js.map": "/utilisateurs-ex4/static/js/main.e32cd515.chunk.js.map",
+    "runtime-main.js": "/utilisateurs-ex4/static/js/runtime-main.9cd129b6.js",
+    "runtime-main.js.map": "/utilisateurs-ex4/static/js/runtime-main.9cd129b6.js.map",
+    "static/css/2.b39b49d3.chunk.css": "/utilisateurs-ex4/static/css/2.b39b49d3.chunk.css",
+    "static/js/2.f2e7742d.chunk.js": "/utilisateurs-ex4/static/js/2.f2e7742d.chunk.js",
+    "static/js/2.f2e7742d.chunk.js.map": "/utilisateurs-ex4/static/js/2.f2e7742d.chunk.js.map",
+    "index.html": "/utilisateurs-ex4/index.html",
+    "static/css/2.b39b49d3.chunk.css.map": "/utilisateurs-ex4/static/css/2.b39b49d3.chunk.css.map",
+    "static/css/main.099f2058.chunk.css.map": "/utilisateurs-ex4/static/css/main.099f2058.chunk.css.map",
+    "static/js/2.f2e7742d.chunk.js.LICENSE.txt": "/utilisateurs-ex4/static/js/2.f2e7742d.chunk.js.LICENSE.txt",
+    "static/media/couverture.2dc9ece9.webp": "/utilisateurs-ex4/static/media/couverture.2dc9ece9.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cd129b6.js",
+    "static/css/2.b39b49d3.chunk.css",
+    "static/js/2.f2e7742d.chunk.js",
+    "static/css/main.099f2058.chunk.css",
+    "static/js/main.e32cd515.chunk.js"
+  ]
+}
